@@ -1,9 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "books": [
+    {
+      "id": 1675931302468,
+      "book_name": "death note",
+      "author": "jana",
+      "id": 1675936197164,
+      "book_name": "history book",
+      "author": "history book",
+      "genre": "Fiction",
+      "edition": "2022",
+      "edition": "2020",
+      "publisher": "anime",
+      "cost": "1455",
+      "borrowed": true
+    },
+    {
+      "id": 1675933070811,
+      "book_name": "history book",
+      "author": "histro",
+      "genre": "History",
+      "edition": "2021",
+      "publisher": "hhhh",
+      "cost": "25663",
+      "borrowed": false
+    },
+    {
+      "id": 1675933094565,
+      "book_name": "tech book",
+      "author": "tech",
+      "genre": "Tech",
+      "edition": "2022",
+      "publisher": "tech",
+      "cost": "122",
+      "cost": "2500",
+      "borrowed": false
+    },
+    {
+      "id": 1675933117349,
+      "book_name": "Business",
+      "author": "Business",
+      "genre": "Business",
+      "id": 1675936210072,
+      "book_name": "ficiton",
+      "author": "history book",
+      "genre": "Fiction",
+      "edition": "2020",
+      "publisher": "Business",
+      "cost": "3652",
+      "borrowed": false
+    },
+    {
+      "id": 1675933141047,
+      "book_name": "science",
+      "author": "science",
+      "genre": "Science",
+      "edition": "2022",
+      "publisher": "science",
+      "cost": "",
+      "publisher": "anime",
+      "cost": "1400",
+      "borrowed": false
+    },
+    {
+      "id": 1675933158436,
+      "book_name": "science",
+      "author": "science",
+      "genre": "Science",
+      "edition": "2022",
+      "id": 1675936217590,
+      "book_name": "tech",
+      "author": "history book",
+      "genre": "Fiction",
+      "edition": "2020",
+      "publisher": "anime",
+      "cost": "255578",
+      "cost": "44",
+      "borrowed": false
+    }
+  ]
 }
